@@ -1,6 +1,6 @@
 <div align="center">
 
-# Planetpass
+# PlanetPass
 
 **Sign in with a planet.** A login screen with an interactive globe that detects
 your **timezone**, sets the **language**, and collects location metadata — so an
@@ -13,7 +13,7 @@ app greets you in your tongue, in your hours, from the first second.
 ---
 
 Spin the globe, drag it (with inertia), **zoom with the wheel**, **click a country**
-or type a postal code / city / country. Planetpass flies to it, and the whole UI —
+or type a postal code / city / country. PlanetPass flies to it, and the whole UI —
 including the sign-in panel — **re-localizes live** into that place's language.
 
 One self-contained `index.html`. No build step, no framework, no API key.
@@ -68,7 +68,7 @@ Vanilla JS · [d3-geo](https://github.com/d3/d3-geo) · [topojson-client](https:
 - **Free for any use, including commercial.**
 - If you modify, redistribute, or host a modified version, you must **share your
   source** under the same license (copyleft).
-- You must **keep the visible `Planetpass · by Ricajos` credit** (linking to
+- You must **keep the visible `PlanetPass · by Ricajos` credit** (linking to
   [ricajos.com](https://ricajos.com)). Removing it requires written permission.
 
 Want it without copyleft or without the credit? Open an issue — a commercial /
